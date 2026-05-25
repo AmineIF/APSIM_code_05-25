@@ -1,0 +1,10 @@
+
+# Windows / VS Code
+desktop.ini
+.vscode/
+**/.vscode/
+
+# APSIM large files
+*.db
+*.log
+*.bak
